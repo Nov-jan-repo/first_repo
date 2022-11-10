@@ -1,2 +1,3 @@
 hello, good morning
 welcome to Staragile
+we have devops training program going from nov to jan batch
